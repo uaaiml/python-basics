@@ -1,4 +1,3 @@
-
 # Define & print the integer variable
 num1 = 1000
 print("Integer value is:", num1)
