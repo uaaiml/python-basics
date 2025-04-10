@@ -1,4 +1,3 @@
-
 # Assign an integer value to the variable num
 num = 1000
 
